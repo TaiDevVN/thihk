@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+#mainweb{
+	margin:0px auto;
+	float:none;
+	width:1000px;
+	height:1500px;
+	border:solid;
+	border-color:#FFF;
+	background-color:#CCC transparent;
+}
+#menuweb{
+	margin:10px;
+	height:38px;
+	float:left;
+	width:977px;
+	background-color:#FFF;
+	padding-left:3px;
+	padding-top:3px;
+	position:fixed;
+}
+#menu_rong{
+	margin:10px;
+	height:38px;
+	float:left;
+	width:977px;
+	background-color:#FFF;
+	padding-left:3px;
+	padding-top:3px;
+}
+#bannerweb{
+	margin:10px;
+	height:150px;
+	float:left;
+	width:980px;
+	background-color:#FFF;
+}
+#bannerwebleft{
+	margin:0px;
+	height:150px;
+	float:left;
+	width:600px;
+	background-color:#FFF;
+}
+#bannerwebrigth{
+	margin:0px;
+	height:150px;
+	float:left;
+	width:360px;
+	padding-left:10px;
+	padding-right:10px;
+	background-color:#FFF;
+}
+.size_banner{
+	margin:0px;
+	height:140px;
+	float:left;
+	width:600px;
+}
+#contents{
+	margin:10px;
+	height:900px;
+	float:left;
+	width:980px;
+	background-color:#FFF;
+}
+#footer{
+	margin:10px;
+	height:305px;
+	float:left;
+	width:980px;
+	background-color:#FFF;
+}
+#footer1{
+	margin:5px;
+	height:300px;
+	float:left;
+	width:300px;
+	background-color:#03F;
+	color:#FFF;
+	padding-right:15px;
+}
+#footer2{
+	margin:5px;
+	height:300px;
+	float:left;
+	width:315px;
+	background-color:#03F;
+}
+#footer3{
+	margin:5px;
+	height:300px;
+	float:left;
+	width:315px;
+	background-color:#03F;
+}
+.chinhanh{
+	font-family:aladin;
+	font-weight:800;
+	text-decoration:none;
+	color:#FFF;
+	font-size:18px;
+	border:solid;
+	border-color:#66F;
+	height:23px;
+	background-color:#66F;
+	margin:5px;
+}
+.chinhanh:hover{
+	border-color:#CCC;
+	background-color:#CCC;
+}
+.canhle_footer{
+	margin:15px;
+	padding:10px;
+	color:#FFF;
+	font-family:aladin;
+	font-weight:800;
+}
+a{text-decoration:none;
+color:#FFF;}
+a:hover{
+	color:#0F6;
+}

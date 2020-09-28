@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+#maincontents{
+	margin:5px;
+	float:left;
+	height:900px;
+	width:970px;
+}
+#sanpham{
+	margin:5px;
+	float:left;
+	height:270px;
+	width:175px;
+	border:solid;
+	border-color:#FFF;
+}
+#sanpham:hover{
+	border-color:#666;
+}
+.sizeimage{
+	width:170px;
+	height:200px;
+}
+.thongtin{
+	margin:10px;
+	padding:5px;
+}
+.gia{
+	font-weight:900;
+	color:#00F;
+}

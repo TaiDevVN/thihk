@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+#main{
+	margin:0px auto;
+	float:none;
+	height:510px;
+	width:810px;
+	border:solid;
+	border-color:#fff;
+}
+#khungbocucweb{
+	height:420px;
+	width:750px;
+	border:solid;
+	border-color:#F00;
+	margin-left:15px;
+	margin-top:50px;
+	padding:15px;
+	
+}
+#hinhsanpham{
+	float:left;
+	height:250px;
+	width:150px;
+	border:solid;
+	border-bottom-color:#00F;
+	margin:15px;
+}
+#hinhsanpham:hover{
+	border-color:#009 #FFFFFF #00FF00;
+}
+#sizehinh{
+	width:140px;
+	height:180px;
+}
+#sizehinh:hover{
+	width:150px;
+	height:190px;
+}
+p{ padding-left:17px;}

@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+#mainweb_chitiet_sp{
+	margin:0px;
+	float:left;
+	width:950px;
+	height:887px;
+	border:solid;
+	border-color:#fff;
+	background-color:#CCC transparent;
+}
+#tt_hinhct{
+	margin:5px;
+	float:left;
+	width:400px;
+	height:500px;
+	border:solid;
+	border-color:#fff;
+	background-color:#CCC transparent;
+}
+#tt_chitiet{
+	margin:5px;
+	float:left;
+	width:300px;
+	height:350px;
+	border:solid;
+	border-color:#fff;
+	background-color:#CCC transparent;
+}
+#tt_mua_hang{
+	margin:5px;
+	float:left;
+	width:295px;
+	height:120px;
+	border:solid;
+	border-color:#fff;
+	background-color:#CCC transparent;
+	padding-left:5px;
+	padding-top:7px;
+}
+#thongtin{
+	margin:0px;
+	float:left;
+	width:315px;
+	height:510px;
+	border:solid #0CF;
+}
+#tt_lienkhac{
+	margin:5px;
+	float:left;
+	width:190px;
+	height:500px;
+	border:solid;
+	border-color:#fff;
+	background-color:#CCC transparent;
+}
+#thongso_chitiet_sp{
+	margin:5px;
+	float:left;
+	width:910px;
+	height:350px;
+	border:solid;
+	border-color:#fff;
+	background-color:#F2F2F2;
+	padding-left:20px;
+}
+.hinh_ct{
+	width:360px;
+	height:410px;
+}
+.hinh_ct_khac{
+	float:left;
+	width:50px;
+	height:60px;
+	margin-left:30px;
+}
+.muangay{
+	margin:1px;
+	float:left;
+	width:290px;
+	height:60px;
+	background-color:#0C3;	
+}
+.tragop{
+	margin:1px;
+	float:left;
+	width:144px;
+	height:58px;
+	background-color:#F00;
+}
+.gopthe{
+	margin:1px;
+	float:left;
+	width:144px;
+	height:58px;
+	background-color:#E78972;
+}
+.canhle_thea_gop{
+	color:#FFF;
+	font-weight:800;
+	font-size:18px;
+	padding-left:46px;
+	padding-top:2px;
+}
+.canhle_mua_ngay{
+	color:#FFF;
+	font-weight:800;
+	font-size:18px;
+	padding-left:95px;
+	padding-top:2px;
+}
